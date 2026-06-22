@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Macklin06  
-- 👀 I’m interested in Generative AI, NLP, Computer Vision, and building intelligent software  
-- 🌱 I’m currently learning Python, Machine Learning (scikit-learn, numpy, pandas) and Golang  
-- 📫 How to reach me: [macklinchrismiranda@gmail.com](mailto:macklinchrismiranda@gmail.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m pursuing a dual degree from NITK Surathkal and IIT Madras.  
+- Hi, I’m @Macklin06  
+- I’m interested in building Backend Systems, ML and NLP or GenAI. 
+- I’m currently learning Golang, Microservices, System Commands, Python, Machine Learning (scikit-learn, numpy, pandas) and Backend Development. 
+- How to reach me: [macklinchrismiranda@gmail.com](mailto:macklinchrismiranda@gmail.com)   
+- I’m pursuing a dual degree from NITK Surathkal and IIT Madras.  
